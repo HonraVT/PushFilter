@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "PushFilter",
+    "description": "Endpoint filter for Web Push Notifications",
+    "version_id": 1,
+    "version_string": "1.0.0",
+    "dev": "",
+    "dev_url": "",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": [],
+    "icon": ""
+}

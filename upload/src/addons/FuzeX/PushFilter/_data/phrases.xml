@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="push_filter_invalid_web_push_provider" version_id="1" version_string="1.0.0"><![CDATA[The provided push notification provider is not allowed.]]></phrase>
+</phrases>
