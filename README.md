@@ -3,7 +3,7 @@ Simple add-on to manage XenForo web push notification providers.
 
 tested on Xenforo v2.3.7
 
-Prevent users from abusing the web push API by configuring your own server as an endpoint and turning it into a "webhook" to call scripts, bots, etc..
+Prevent users from abusing the web push API by configuring your own server/cloud functions as an endpoint and turning it into a "webhook" to call scripts, bots, etc..
 
 
 ![](https://i.imgur.com/vt3P735.png)
