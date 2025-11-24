@@ -27,7 +27,7 @@ How to do it:
 
 - Using another account, send a private message to the account with web push enabled or wait for an alert.
 
-- Await a POST request from Xenforo.
+- Observe a POST request from Xenforo.
 
 Dependency: requests (pip install requests)
 """"
