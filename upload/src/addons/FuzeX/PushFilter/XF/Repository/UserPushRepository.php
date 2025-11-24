@@ -17,7 +17,7 @@ class UserPushRepository extends XFCP_UserPushRepository
         }
 
         // 2. Gets allowed hosts from options (cached by XenForo)
-        $allowedHostsOption = \XF::options()->pushFilter_allowedHosts ?? '';
+        $allowedHostsOption = \XF::options()->push_filter_allowed_hosts ?? '';
         $allowedPushHosts = array_filter(array_map('trim', explode("\n", $allowedHostsOption)));
 
         // If no hosts are configured, allow all (or set an error if preferred)
@@ -53,3 +53,4 @@ class UserPushRepository extends XFCP_UserPushRepository
         return false;
     }
 }
+
