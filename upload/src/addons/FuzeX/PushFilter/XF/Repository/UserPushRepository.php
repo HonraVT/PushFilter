@@ -34,8 +34,7 @@ class UserPushRepository extends XFCP_UserPushRepository
             return true;
         }
 
-        // 4. Error if not allowed
-        $error = \XF::phrase('push_filter_invalid_web_push_provider');
+        // 4. if not valid return false
         return false;
     }
 
