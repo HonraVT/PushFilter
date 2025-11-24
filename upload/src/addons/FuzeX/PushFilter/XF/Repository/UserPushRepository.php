@@ -53,4 +53,3 @@ class UserPushRepository extends XFCP_UserPushRepository
         return false;
     }
 }
-

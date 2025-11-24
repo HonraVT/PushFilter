@@ -1,7 +1,7 @@
 {
     "src/addons/FuzeX/PushFilter/addon.json": "fab4866f7d48e3018995a278c356d51ebc396cdab25325a71accb951e2995fbd",
     "src/addons/FuzeX/PushFilter/Setup.php": "5492e77644fdf300ca701982d18d5fb67bacebbbf41a471e28e5a258cb0f1ce1",
-    "src/addons/FuzeX/PushFilter/XF/Repository/UserPushRepository.php": "701ed7ba7f143b2447ae27b9fbe10c2bb991ed70ab82aa9468cee472418ed7b7",
+    "src/addons/FuzeX/PushFilter/XF/Repository/UserPushRepository.php": "b9b7cf111f95ad74f82e32fa42bbb1cb68b84e4a004e172cc8c08c8cc2a8ff17",
     "src/addons/FuzeX/PushFilter/_data/activity_summary_definitions.xml": "99d8c2563a31320d66f958fc8bda78613545f5f7959bb3cf5318805e3a3c39d2",
     "src/addons/FuzeX/PushFilter/_data/admin_navigation.xml": "064ec797484ac00d5ee37367b50b06846d11f480d00550997712707f8fdac8c0",
     "src/addons/FuzeX/PushFilter/_data/admin_permission.xml": "ec6fb97cebf0bceb24f1ed1d5778c1db54eeb7535fbb3e31d824840e7aa9ff87",
