@@ -18,9 +18,9 @@ The Python script below shows how users can do it:
 """
 You will need:
 - One or two accounts on the target forum for testing.
-- The forum URL.
-- The browser cookie "xf_user" to log into a registered user account.
-- The URL of your server; in this example, we will use a test endpoint from the webhook.site website.
+- Forum URL.
+- Browser cookie "xf_user" to log into a registered user account.
+- URL of your server; in this example, we will use a test endpoint from the webhook.site website.
 
 How to do it:
 - Run the script using your credentials and URLs.
