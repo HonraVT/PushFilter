@@ -12,7 +12,7 @@ Prevent users from abusing the web push API by configuring your own server as an
 
 ## What's the trick?
 
-The Python script below shows how to do it:
+The Python script below shows how users can do it:
 
 ```python
 """
